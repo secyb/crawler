@@ -1,6 +1,6 @@
 purpose:craw from baike
 
-Enviroments:python2.7.13   eclipse
+Enviroments:python2.7.13   eclipse with PyDev
 
 
 Beautiful Soup
