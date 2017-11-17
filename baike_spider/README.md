@@ -28,3 +28,7 @@ urllib2.Request() became urllib.request.Request()
 Crawling Baidu encyclopedia's links, themes and profiles
 
 This is the simplest crawling!
+
+---------------------------------------------------------------
+
+Execute:run spider_main.py
