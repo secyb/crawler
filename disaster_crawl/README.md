@@ -1,6 +1,6 @@
 purpose:craw data about disasters from different websites
 
-Enviroments:python36, eclipse with PyDev
+Enviroments:python36, eclipse with PyDev, mysql5.7
 
 Beautiful Soup
 
